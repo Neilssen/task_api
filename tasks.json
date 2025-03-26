@@ -1,21 +1,32 @@
-{
-    "tasks": [
-
-        {
-
-        "id": 1,
-
-        "title": "Complete Flutter Assignment",
-
-        "description": "Implement CRUD using BLoC",
-
-        "status": "Pending",
-
-        "dueDate": "2024-03-20"
-
-        }
-
-    ]
-
-}
-
+[
+  {
+    "id": 1,
+    "title": "Water plants",
+    "description": "Give all the indoor plants a quick drink.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Check emails",
+    "description": "Review inbox and respond to urgent messages.",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Stretch",
+    "description": "Do a 5-minute stretching routine.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Charge devices",
+    "description": "Plug in phone and laptop to ensure they're ready to go.",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Organize desk",
+    "description": "Tidy up workspace for better focus.",
+    "completed": false
+  }
+]
