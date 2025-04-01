@@ -3,30 +3,35 @@
     "id": 1,
     "title": "Water plants",
     "description": "Give all the indoor plants a quick drink.",
-    "completed": false
+    "completed": false,
+    "dueDate": "2025-04-03T08:00:00"
   },
   {
     "id": 2,
     "title": "Check emails",
     "description": "Review inbox and respond to urgent messages.",
-    "completed": false
+    "completed": false,
+    "dueDate": "2025-04-03T09:00:00"
   },
   {
     "id": 3,
     "title": "Stretch",
     "description": "Do a 5-minute stretching routine.",
-    "completed": false
+    "completed": false,
+    "dueDate": "2025-04-03T10:00:00"
   },
   {
     "id": 4,
     "title": "Charge devices",
     "description": "Plug in phone and laptop to ensure they're ready to go.",
-    "completed": false
+    "completed": false,
+    "dueDate": "2025-04-03T11:00:00"
   },
   {
     "id": 5,
     "title": "Organize desk",
     "description": "Tidy up workspace for better focus.",
-    "completed": false
+    "completed": false,
+    "dueDate": "2025-04-03T12:00:00"
   }
 ]
